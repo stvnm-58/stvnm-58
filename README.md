@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi 👋, I'm Steven.
 
-<!--
-**stvnm-58/stvnm-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying software engineering at **Holberton School**, focusing on low-level programming, web development, and building efficient software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Languages
+
+*   **Systems & Low-Level:** C
+*   **Programming Languages:** Python
+*   **Web Development:** HTML5, CSS3, JavaScript
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stvnm-58&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>## Hi there 👋
+

@@ -11,10 +11,3 @@ I am currently studying software engineering at **Holberton School**, focusing o
 *   **Web Development:** HTML5, CSS3, JavaScript
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stvnm-58&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>## Hi there 👋
-
